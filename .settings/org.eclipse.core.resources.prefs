@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//custom_connectors/client_connectors.py=utf-8
+encoding//custom_connectors/server_connectors.py=utf-8
+encoding/filterGrayService.py=utf-8
+encoding/inputApp.py=utf-8
+encoding/inputService.py=utf-8
+encoding/masterService.py=utf-8
+encoding/outputService.py=utf-8
+encoding/parameters.py=utf-8
+encoding/preprocessingService.py=utf-8
